@@ -1,0 +1,15 @@
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.csproj.AssemblyReference.cache
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.AssemblyInfoInputs.cache
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.AssemblyInfo.cs
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.csproj.CoreCompileInputs.cache
+C:\Users\mirzo\source\repos\Тортик\Тортик\bin\Debug\net6.0\Тортик.exe
+C:\Users\mirzo\source\repos\Тортик\Тортик\bin\Debug\net6.0\Тортик.deps.json
+C:\Users\mirzo\source\repos\Тортик\Тортик\bin\Debug\net6.0\Тортик.runtimeconfig.json
+C:\Users\mirzo\source\repos\Тортик\Тортик\bin\Debug\net6.0\Тортик.dll
+C:\Users\mirzo\source\repos\Тортик\Тортик\bin\Debug\net6.0\Тортик.pdb
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.dll
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\refint\Тортик.dll
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.pdb
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\Тортик.genruntimeconfig.cache
+C:\Users\mirzo\source\repos\Тортик\Тортик\obj\Debug\net6.0\ref\Тортик.dll
